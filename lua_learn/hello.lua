@@ -1,24 +1,24 @@
 print("hello world")
-print("ÄãºÃ ÊÀ½ç")
+print("ä½ å¥½ä¸–ç•Œ")
 
--- print("hello world") µ¥ĞĞ×¢ÊÍ
+-- print("hello world") å•è¡Œæ³¨é‡Š
 
---[[ ¶àĞĞ×¢ÊÍ
+--[[ å¤šè¡Œæ³¨é‡Š
 print("hello world")
 print("hello world")
 print("hello world")
 --]]
 
 --[[
-±äÁ¿Óï·¨ÓëCÒ»ÖÂ Çø·Ö´óĞ¡Ğ´ Ê×¸öÎŞÊı×Ö
+	luaå˜é‡å‘½åä¸cæ— äºŒè‡´
 --]]
 
--- nil ÊÇ¿Õ lua·ÃÎÊ¿Õ²»»á±¨´í Ö»»áµÃµ½nil
+-- nil luaç›´æ¥è¿è¡Œç©ºåœ°å€å¹¶ä¸ä¼šæŠ¥é”™ è€Œæ˜¯ä¼šè¡¨ç¤ºnil
 print(b)
 
 c = 10
 print(c)
 
 --[[
-	lua hello.lua
+	luaè„šæœ¬è¿è¡Œ hello.lua
 ]]
