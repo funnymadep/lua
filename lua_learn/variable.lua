@@ -42,4 +42,3 @@ function f()
 end
 c, d = f()
 print(c,d)              --> c=1 d=2
-
